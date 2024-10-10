@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "fish-friends-aebae",
+    "prod": "fish-friends-aebae"
+  },
+  "targets": {},
+  "etags": {}
+}
